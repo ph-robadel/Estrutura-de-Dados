@@ -10,9 +10,10 @@ Ex: protótipo da função insere na lista encadeada: void insereOrdenado(NoList
 
 A lista de clientes deve ser mantida ordenada pelo nome do cliente e a lista de produtos deve ser mantida ordenada pelo seu identificador único.
 
-As alterações das listas estudadas em sala de aula para atender a especificação do trabalho são de 
-responsabilidade dos alunos.Implemente sua função principal (main) no arquivo main.c. Ela deve criar a lista de clientes e a lista de produtos e, em seguida, imprimir na tela um menu com as seguintes opções:
+As alterações das listas estudadas em sala de aula para atender a especificação do trabalho são de responsabilidade dos alunos. Implemente sua função principal (main) no arquivo main.c. Ela deve criar a lista de clientes e a lista de produtos e, em seguida, imprimir na tela um menu com as seguintes opções:
+
 ----------------MENU------------------
+
 1 - Cadastrar novo cliente
 2 - Remover cliente
 3 - Imprimir clientes
@@ -22,8 +23,9 @@ responsabilidade dos alunos.Implemente sua função principal (main) no arquivo 
 7 - Editar descrição de produtos
 8 - Registrar venda de produto
 9 - Sair
-Escolha uma opção:
+
 -------------------------------------------
+
 Implemente todas as funcionalidades do menu, levando em conta as seguintes considerações:
 
 Para cadastrar novo cliente e novo produto, deve-se criar as estruturas correspondentes e inserir na lista correspondente.
@@ -33,10 +35,12 @@ A busca de um cliente deve ser feita pelo nome (na opção 2).
 A busca de um produto deve ser feita pelo identificador único (tanto na opção 5, quanto nas opções 7 e 8).
 
 A impressão dos clientes deve ser feita da seguinte forma: id do cliente: nome do cliente (ou seja, um cliente por linha).Ex:
+
 1: André Campos
 2: Maria José
 
 A impressão dos produtos deve ser feita da seguinte forma -> "id do produto:  nome do produto - Descrição do produto. Qtde em estoque: x" (um por linha)Ex:
+
 1: Agenda 2019 - Agenda da marca BBI um dia/pag. Qtde: 10
 2: Caderno 60fl – Caderno brochura 60 fl. Qtde: 200
        

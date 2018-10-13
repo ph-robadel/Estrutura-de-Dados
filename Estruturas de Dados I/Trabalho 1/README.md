@@ -24,7 +24,7 @@ As alterações das listas estudadas em sala de aula para atender a especificaç
 8 - Registrar venda de produto
 9 - Sair
 
--------------------------------------------
+- ----------------------------------------
 
 Implemente todas as funcionalidades do menu, levando em conta as seguintes considerações:
 

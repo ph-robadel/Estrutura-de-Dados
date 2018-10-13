@@ -1,4 +1,4 @@
-#Descrição do Trabalho:
+Descrição do Trabalho:
 
 Você foi contratado para implementar um sistema de controle para uma loja. A sua primeira tarefa será implementar algumas funcionalidades isoladas do programa que permitam cadastrar e manipular os dados de clientes e produtos. No seu programa você deve implementar os TAD Cliente e Produto, bem como uma lista simplesmente encadeada de clientes e uma lista com descritor de produtos. Assim, o seu projeto deve conter pelo menos os seguintes arquivos: Cliente.h, Cliente.c, Produto.h, Produto.c, ListaEncadeada.h, ListaEncadeada.c, ListaCDescritor.h, ListaCDescritor.c, main.c e makefile.
 
